@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Progetto finale LPO a.a. 2024-2025
 Il progetto finale consiste nell'implementazione di un'estensione del linguaggio sviluppato durante gli ultimi laboratori Java;
 può quindi essere usata come base di partenza la soluzione proposta per l'ultimo laboratorio.
@@ -140,3 +141,7 @@ dichiarazione a livello annidato di `variable` con  un qualsiasi valore di inizi
 - Dopo che il progetto è stato valutato positivamente, il relativo colloquio **individuale** può essere sostenuto  anche se l'esame scritto non è stato ancora superato; esso ha lo scopo di verificare che ogni componente del gruppo abbia compreso il funzionamento del codice e abbia contribuito attivamente al suo sviluppo
 - L'**OpenBadge Soft skills - Sociale base 1 - A** verrà assegnato ai componenti del gruppo solo se **tutti** avranno superato positivamente (ossia senza decremento del punteggio) il colloquio individuale
 - Per ulteriori informazioni consultare la [pagina AulaWeb sulle modalità di esame](https://2024.aulaweb.unige.it/mod/page/view.php?id=57633)
+=======
+# ProgettoJAVA-EstensioneLinguaggio-OperazioniInsiemistiche
+Progetto universitario in Java per il corso "Linguaggi di programmazione orientati agli oggetti" del secondo anno della laurea triennale in informatica.
+>>>>>>> 8687aaac0e3ee844c84fe3ff0b9be54ab0cf534b
